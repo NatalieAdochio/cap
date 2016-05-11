@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=BASE_X\ BASE_Y\ TIP_Y
+comment0.target=FractalPanel(double,\ double,\ double)
+comment0.text=\r\n\ Creates\ a\ new\ FractalPanel\r\n
+comment1.params=baseX\ baseY\ tipX\ tipY\ page\ prevAngle\ prevLength
+comment1.target=void\ drawFractal(double,\ double,\ double,\ double,\ java.awt.Graphics,\ double,\ double)
+comment1.text=\r\n\ Creates\ the\ Fractal\ recursively\ and\ draws\ to\ the\ window\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\r\n\ Calls\ drawFractal\ with\ different\ sets\ of\ parameters\ to\ help\ create\ the\ movement\ illusion\r\n
+numComments=3
